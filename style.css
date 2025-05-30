@@ -1,0 +1,82 @@
+.project-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+	gap: 2rem;
+	margin-top: 2rem;
+}
+
+.project-item {
+	background: rgba(255, 255, 255, 0.05);
+	padding: 2rem;
+	border-radius: 8px;
+	transition: transform 0.3s ease;
+}
+
+.project-item:hover {
+	transform: translateY(-5px);
+}
+
+.project-item h3 {
+	color: #fff;
+	margin-bottom: 1rem;
+	font-size: 1.5rem;
+}
+
+.project-details {
+	margin-bottom: 1.5rem;
+}
+
+.project-details .description {
+	color: #ccc;
+	margin-bottom: 1.5rem;
+	line-height: 1.6;
+}
+
+.key-features,
+.technologies {
+	margin-bottom: 1.5rem;
+}
+
+.key-features h4,
+.technologies h4 {
+	color: #fff;
+	margin-bottom: 0.75rem;
+	font-size: 1.1rem;
+}
+
+.key-features ul,
+.technologies ul {
+	list-style: none;
+	padding-left: 0;
+	margin: 0;
+}
+
+.key-features li,
+.technologies li {
+	color: #ccc;
+	margin-bottom: 0.5rem;
+	padding-left: 1.5rem;
+	position: relative;
+}
+
+.key-features li:before,
+.technologies li:before {
+	content: "•";
+	position: absolute;
+	left: 0;
+	color: #4caf50;
+}
+
+.project-item .button {
+	display: inline-block;
+	background: #4caf50;
+	color: #fff;
+	padding: 0.75rem 1.5rem;
+	border-radius: 4px;
+	text-decoration: none;
+	transition: background 0.3s ease;
+}
+
+.project-item .button:hover {
+	background: #45a049;
+}
