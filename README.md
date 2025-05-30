@@ -63,7 +63,7 @@ If you'd like to check it out locally:
 ## 📬 Contact & Contribution
 
 - 🌐 **Portfolio:** [https://ahmedmaher-portfolio.vercel.app/](https://ahmedmaher-portfolio.vercel.app/)
-  - **LinkedIn:** [https://www.linkedin.com/in/ahmed-maher-algohary](https://www.linkedin.com/in/ahmed-maher-algohary)
+- **LinkedIn:** [https://www.linkedin.com/in/ahmed-maher-algohary](https://www.linkedin.com/in/ahmed-maher-algohary)
 - 📫 **Email:** [ahmedmaher.dev1@gmail.com](mailto:ahmedmaher.dev1@gmail.com)  
 
 If you'd like to suggest improvements or contribute, feel free to fork the repo and submit a pull request. I'd love to collaborate!
