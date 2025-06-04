@@ -21,7 +21,7 @@ The website reflects my commitment to clean design, responsive layouts, and inte
 
 ## 🌐 Demo (Live Preview)
 
-👉 **Visit My Portfolio:** [https://ahmed-maher77.github.io/My-Personal-Portfolio-v1/](https://ahmed-maher77.github.io/My-Personal-Portfolio-v1/)
+👉 **Visit My Portfolio:** [https://ahmed-maher77.github.io/My-Personal-Portfolio-v1___Dimension/](https://ahmed-maher77.github.io/My-Personal-Portfolio-v1___Dimension/)
 
 ---
 
@@ -38,7 +38,7 @@ The website reflects my commitment to clean design, responsive layouts, and inte
 
 ## 👀 Website Preview
 
-<a href="website-url" title="demo">
+<a href="https://ahmed-maher77.github.io/My-Personal-Portfolio-v1___Dimension/" title="demo">
   <img src="uploaded-img-on-github-readme" alt="website preview" width="400">
 </a>
 
